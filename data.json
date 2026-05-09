@@ -1,0 +1,50 @@
+{
+  "title": "Para a pessoa mais batalhadora desse mundo",
+  "subtitle": "Uma homenagem à mulher que é o tronco da nossa história.",
+  "nodes": [
+    {
+      "id": "mom",
+      "title": "Nossa Rainha",
+      "quote": "Nossa rainha, nosso maior orgulho",
+      "img": "photos/1778351873605.jpeg",
+      "children": [
+        {
+          "id": "siblings",
+          "title": "A mãe que faz de tudo por todos",
+          "quote": "Te admiro demais mãe",
+          "img": "photos/1778351887625.jpeg",
+          "children": []
+        },
+        {
+          "id": "felipe",
+          "title": "Mae",
+          "quote": "Seu abraço é o único lugar do mundo onde me sinto invencível.",
+          "img": "photos/1778351897317.jpeg",
+          "children": [
+            {
+              "id": "memory1",
+              "title": "Primeiras Memórias",
+              "quote": "Desde o primeiro suspiro, você foi meu mundo.",
+              "img": "photos/1778352025364.jpeg",
+              "children": []
+            },
+            {
+              "id": "memory2",
+              "title": "Minha infância",
+              "quote": "Obrigado por colorir nossos dias com tanto carinho.",
+              "img": "photos/1778352103143.jpeg",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "node-1778353002830",
+          "title": "A vô",
+          "quote": "A vô que mais faz de tudo pelo netos",
+          "img": "photos/1778361714166.jpeg",
+          "children": []
+        }
+      ]
+    }
+  ]
+}
